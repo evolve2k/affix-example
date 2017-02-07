@@ -1,0 +1,11 @@
+.affix-top{
+  position: relative;
+  top: 10000px;
+}
+
+.affix{
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
